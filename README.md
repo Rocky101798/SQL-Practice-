@@ -1,2 +1,2 @@
 # SQL-Practice-
-###This is where alal my practice documents and mini projects are placed 
+### This is where alal my practice documents and mini projects are placed 
