@@ -1,0 +1,11 @@
+course_id,course_name,department,instructor_name,duration_weeks,course_fee,level,max_students,start_date
+C001,"  Introduction to SQL  ","  data science  ","  Dr Emma Roberts  ",8,"1500.00","beginner",30,"2023-01-15"
+C002,"Advanced Python","DATA SCIENCE","Dr James Carter","12","2500.00","ADVANCED",25,"2023-02-01"
+C003,"Web Development","  IT  ","  dr sarah MILLER  ",10,"2000.00","Intermediate",35,"2023-02-15"
+C004,"Data Visualization","Data Science","DR EMMA ROBERTS","6","1200.00","beginner",30,"2023-03-01"
+C005,"Machine Learning","DATA SCIENCE","Dr James Carter","16","3500.00","ADVANCED",20,"2023-03-15"
+C006,"  Cybersecurity Basics  ","it","  Dr Sarah MILLER  ",8,"1800.00","intermediate",25,"2023-04-01"
+C007,"Database Design","  DATA SCIENCE  ","DR EMMA ROBERTS","10","2200.00","Intermediate",30,"2023-04-15"
+C008,"Cloud Computing","IT","  dr sarah miller  ","14","3000.00","ADVANCED",20,"2023-05-01"
+C009,"Business Analytics","  BUSINESS  ","Dr Mike THOMPSON","8","1600.00","beginner",35,"2023-05-15"
+C010,"Project Management","business","DR MIKE THOMPSON","6","1400.00","Intermediate",40,"2023-06-01"
