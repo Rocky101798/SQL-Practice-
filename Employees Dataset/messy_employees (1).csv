@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,department,job_title,salary,start_date,employment_type,performance_score,email,city,years_experience
+1," john ","Smith","sales","Sales Manager","85000","2019-03-15","Full-Time",4,"john.smith@company.com","New York",8
+2,"MARY","johnson ","HR","hr specialist","","2020-07-01","full-time",3,"mary.johnson@company.com"," Chicago ",5
+3,"peter","WILLIAMS","IT","  Software Developer  ","92000","2018-11-20","CONTRACT",5,"peter.williams@company.com","Austin",7
+4," Lisa","brown","Sales","sales manager","78000","2021-01-10","Full-Time","","lisa.brown@company.com","New York",6
+5,"JAMES ","Davis","it","software developer","92000","2018-11-20","Contract",4,"james.davis@company.com","austin",7
+6,"sarah","Miller","HR","HR Specialist",72000,"2020-09-15","FULL-TIME",3,"sarah.miller@company.com","Chicago",5
+7," ","Wilson","Finance","Financial Analyst","68000","2017-05-22","full-time",2,"","Dallas",10
+8,"Robert","","Sales","Sales Rep","52000","2022-03-01","Part-Time",3,"robert@company.com","  new york  ",3
+9,"Emily","Moore","finance","financial analyst","68000","2017-05-22","Full-Time",4,"emily.moore@company.com","Dallas",10
+10,"michael","Taylor","IT","","110000","2016-08-30","full-time",5,"michael.taylor@company.com","Austin",12
+11,"JESSICA","Anderson","sales","Sales Rep","52000","2022-03-01","PART-TIME","","jessica.anderson@company.com","New York",3
+12,"david","Thomas ","HR","hr manager","95000","2015-12-01","Full-Time",4,"david.thomas@company.com","Chicago",14
+13," Amanda","Jackson","IT","Software Developer",92000,"2018-11-20","contract",3,"amanda.jackson@company.com","AUSTIN",7
+14,"Christopher","White","Finance","Financial Analyst","","2017-05-22","Full-Time",2,"christopher.white@company.com","Dallas",10
+15,"stephanie","Harris","Sales","sales manager",85000,"2019-03-15","full-time",5,"stephanie.harris@company.com","new york",8
+16,"","Martinez","IT","Software Developer",92000,"2018-11-20","Contract",4,"dev.martinez@company.com","Austin",7
+17,"Kevin","Robinson","finance","FINANCIAL ANALYST","68000","2017-05-22","FULL-TIME","","kevin.robinson@company.com","DALLAS",10
+18,"rachel","Clark ","HR","Hr Specialist",72000,"2020-09-15","full-time",3,"rachel.clark@company.com","chicago",5
+19,"BRANDON","Rodriguez","sales","Sales Rep","52000","2022-03-01","part-time",2,"brandon.rodriguez@company.com","New York",3
+20,"Melissa","Lewis","IT","software developer","","2019-07-15","Full-Time",4,"melissa.lewis@company.com","Austin",6
+21,"tyler"," Young","Finance","financial analyst",68000,"2017-05-22","contract",3,"tyler.young@company.com","Dallas",10
+22,"NICOLE","Allen","HR","HR MANAGER","95000","2015-12-01","full-time",5,"nicole.allen@company.com","  CHICAGO  ",14
+23,"jacob","Hernandez","Sales","Sales Manager","85000","2019-03-15","Full-Time",4,"","new york",8
+24,"Brittany","King ","IT","Software Developer",92000,"2018-11-20","FULL-TIME","","brittany.king@company.com","austin",7
+25,"samuel","Wright","Finance","FINANCIAL ANALYST","68000","","full-time",3,"samuel.wright@company.com","Dallas",10
+26," ASHLEY","Lopez","HR","hr specialist",72000,"2020-09-15","Full-Time",2,"ashley.lopez@company.com","Chicago",5
+27,"Dylan","Hill","sales","sales rep","52000","2022-03-01","part-time",4,"dylan.hill@company.com","NEW YORK",3
+28,"Kayla","Scott","IT","  software developer  ","92000","2018-11-20","contract",3,"kayla.scott@company.com","Austin",7
+29,"NATHAN","Green","Finance","Financial Analyst","68000","2017-05-22","FULL-TIME","","nathan.green@company.com","dallas",10
+30,"Amber","Adams","HR","hr manager",95000,"2015-12-01","full-time",4,"amber.adams@company.com","CHICAGO",14
