@@ -1,0 +1,101 @@
+employee_id,employee_name,city,department,salary_varchar,age_varchar
+1041,john smith,Johannesburg, finance ,34049,27
+1038, MIKE BROWN ,Johannesburg,Sales,24140,53
+1036,Sarah Jones, cape town ,Finance, 56618 ,
+1028,Mike Brown, pretoria ,SALES,32110,26
+1023,Mike Brown, pretoria ,Sales,48108,
+1019, SIPHO DLAMINI ,Cape Town,Finance,64174,35
+1015,john smith, cape town , finance , 59660 , 44 
+1014, SIPHO DLAMINI , pretoria , sales ,57920,55
+1030, MIKE BROWN , pretoria ,Finance,62866, 23 
+1026,sarah jones, johannesburg ,Finance,55170,
+1030, JOHN SMITH , pretoria ,SALES,, 58 
+1038, MIKE BROWN ,Cape Town,Finance, 51392 ,26
+1010, SIPHO DLAMINI ,JOHANNESBURG, it , 22163 , 59 
+1034,sarah jones,Johannesburg, sales , 53190 , 28 
+1028, JOHN SMITH ,Durban,Sales,35261,
+1020, SIPHO DLAMINI ,Pretoria,SALES,,
+1021,Lerato Nkosi,Johannesburg, sales ,41788,
+1006,john smith,Durban, sales ,52911,51
+1017,lerato nkosi, cape town ,Finance,53343,
+1042,Mike Brown,Durban,HR,25930,25
+1038,lerato nkosi,Pretoria,Finance,,24
+1003,Mike Brown, johannesburg ,Finance, 61842 ,34
+1047,Sipho Dlamini,Durban,Finance,48996,
+1028,Mike Brown, cape town , it ,, 24 
+1047,Mike Brown, johannesburg ,Finance,, 29 
+1012,sarah jones,Durban,Finance,,
+1035,John Smith, johannesburg ,Finance, 44634 , 34 
+1004, JOHN SMITH , cape town ,Sales, 35380 ,
+1047,aisha khan,Durban,SALES,30445,
+1035,John Smith,Cape Town,Sales, 56284 ,53
+1004,lerato nkosi, johannesburg ,SALES,22490,36
+1037,Sarah Jones,Johannesburg, sales ,, 54 
+1017,Sarah Jones,Cape Town,Finance,35407, 50 
+1049,john smith,Johannesburg,HR,58708,25
+1033,sarah jones,JOHANNESBURG,IT, 34009 , 31 
+1035,Aisha Khan, pretoria ,Sales, 54346 , 29 
+1008,john smith,JOHANNESBURG, finance ,36465,
+1041,sarah jones,Durban, finance ,,48
+1001,Mike Brown,JOHANNESBURG, finance ,,48
+1008,john smith,JOHANNESBURG,Sales,,30
+1003,sarah jones,Cape Town,Sales,, 27 
+1050,lerato nkosi, cape town ,SALES,33514,47
+1048,Mike Brown, cape town ,Finance,,27
+1031,Sarah Jones,Pretoria,HR,40915,
+1013, MIKE BROWN ,Cape Town, finance , 36292 ,
+1035,Mike Brown,Johannesburg, sales ,,37
+1039, MIKE BROWN ,Cape Town,IT,,
+1013,sarah jones,Johannesburg, it ,, 44 
+1005, SIPHO DLAMINI ,Cape Town,IT,, 53 
+1043, MIKE BROWN ,Cape Town, it ,, 33 
+1043, MIKE BROWN ,JOHANNESBURG, finance ,44612,40
+1028,aisha khan,Cape Town,HR,, 53 
+1048, JOHN SMITH , johannesburg , finance ,,60
+1049,Sarah Jones, pretoria ,Finance,31050, 36 
+1040,aisha khan, johannesburg ,HR,, 45 
+1026,Sarah Jones,JOHANNESBURG,Sales,24985, 54 
+1004,lerato nkosi,Pretoria, sales , 26738 ,
+1021,aisha khan,Durban, it ,53905, 49 
+1049,Sarah Jones, pretoria ,HR, 33679 ,
+1019,Sarah Jones, pretoria ,IT,38952,29
+1025,Aisha Khan,JOHANNESBURG,Finance, 45188 , 55 
+1027,John Smith,Pretoria, it ,, 57 
+1031,John Smith,Cape Town, finance ,,55
+1032,Sarah Jones, pretoria , it , 19902 ,
+1011,Lerato Nkosi,JOHANNESBURG,Sales,,
+1028, JOHN SMITH ,Durban,SALES, 35049 , 34 
+1021,Mike Brown, cape town , finance ,45627,
+1035,John Smith,Cape Town,Finance,,23
+1013,John Smith,JOHANNESBURG,Finance,,28
+1030,Aisha Khan, pretoria ,IT,, 31 
+1007,Sipho Dlamini,Johannesburg, finance , 62390 ,46
+1038,Aisha Khan,Pretoria, sales ,,
+1003,Mike Brown, cape town ,IT,, 21 
+1032,john smith, cape town ,IT,,30
+1047,lerato nkosi, pretoria ,HR,, 38 
+1016,john smith, pretoria ,HR,, 45 
+1002,Lerato Nkosi,Cape Town,SALES, 31901 , 42 
+1039,Aisha Khan, pretoria ,Sales,51857, 47 
+1036,aisha khan,Pretoria,HR, 64651 ,49
+1019,Sarah Jones, cape town ,Finance,,
+1034,Mike Brown, cape town ,IT, 64062 , 40 
+1015,john smith,Pretoria,IT,,32
+1048,Lerato Nkosi, pretoria , finance , 30721 ,35
+1020,John Smith,JOHANNESBURG, finance ,,
+1049,Lerato Nkosi, johannesburg ,Sales, 36634 , 49 
+1012,John Smith, pretoria ,HR, 22282 ,
+1041, SIPHO DLAMINI ,Johannesburg,SALES, 54886 ,26
+1036,aisha khan, cape town ,Finance, 42928 ,
+1028,sarah jones,Johannesburg, sales ,31617,37
+1016, JOHN SMITH , johannesburg ,SALES, 44772 , 51 
+1003,Sarah Jones, pretoria , finance ,64070,
+1038, SIPHO DLAMINI ,Pretoria, it ,25521,30
+1005,John Smith,JOHANNESBURG, finance , 55303 , 28 
+1045,sarah jones, cape town , finance , 53388 ,
+1003, MIKE BROWN ,Cape Town, finance ,19695,57
+1049, SIPHO DLAMINI , pretoria ,Sales,,49
+1038, MIKE BROWN ,Durban, sales , 40803 ,
+1007, JOHN SMITH ,Cape Town, it , 50471 ,46
+1030,john smith,Cape Town, finance , 25597 ,
+1035,Lerato Nkosi, cape town ,Sales, 51976 ,
