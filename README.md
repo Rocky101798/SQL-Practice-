@@ -33,13 +33,14 @@ SQL-Practice/
 │   └── README.md
 │
 └── JOIN Practice/
-    ├── students.csv
-    ├── courses.csv
-    ├── enrollments.csv
-    ├── employees.csv
-    ├── salaries.csv
-    ├── join_queries.sql
-    └── README.md
+├── students.csv
+├── courses.csv
+├── enrollments.csv
+├── employees.csv
+├── salaries.csv
+├── join_queries.sql
+└── README.md
+
 ---
 
 ## 🧹 Cleaning Functions Practiced
@@ -166,13 +167,13 @@ Every cleaning project follows this structure:
 -- CTE 1: Clean the data first
 WITH cleaned AS (
     SELECT
-        TRIM(INITCAP(name))                     AS name,
-        COALESCE(NULLIF(email, ''), 'No Email') AS email,
+        TRIM(INITCAP(name))                      AS name,
+        COALESCE(NULLIF(email, ''), 'No Email')  AS email,
         COALESCE(TRY_CAST(salary AS DECIMAL), 0) AS salary,
         CASE
             WHEN UPPER(status) = 'ACTIVE' THEN 'Active'
             ELSE 'Inactive'
-        END                                     AS status
+        END                                      AS status
     FROM raw_table
 ),
 
@@ -198,29 +199,29 @@ WHERE row_num = 1;
 
 ## 💡 Key Lessons Learned
 
-**Always clean before deduplicating**
+**Always clean before deduplicating**  
 Dirty values like extra spaces or mixed case
 cause `ROW_NUMBER()` to miss true duplicates.
 Clean the data first so values match correctly
 in the `PARTITION BY` clause.
 
-**Use `TRY_CAST` over `CAST` on real data**
+**Use `TRY_CAST` over `CAST` on real data**  
 `CAST` crashes when it hits an unexpected value.
 `TRY_CAST` returns NULL instead, keeping the
 query running safely.
 
-**`GROUP BY` must match `SELECT` exactly**
+**`GROUP BY` must match `SELECT` exactly**  
 Any transformation applied in `SELECT` must be
 repeated identically in `GROUP BY`, otherwise
 SQL groups on the original dirty values.
 
-**`COALESCE` vs `IFNULL`**
+**`COALESCE` vs `IFNULL`**  
 Both replace NULLs but `COALESCE` accepts
 multiple fallback values while `IFNULL` only
 accepts one. Use `COALESCE` when you have
 multiple fallback options.
 
-**NULL does not equal NULL in `PARTITION BY`**
+**NULL does not equal NULL in `PARTITION BY`**  
 When deduplicating on a nullable column, wrap
 it with `COALESCE` first so NULL values match
 each other correctly across duplicate rows.
