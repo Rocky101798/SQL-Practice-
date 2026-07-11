@@ -15,31 +15,13 @@ Google BigQuery.
 ---
 
 ## 📁 Repository Structure
-SQL-Practice/
-│
-├── Employees Dataset/
-│   ├── messy_employees.csv
-│   ├── cleaning_queries.sql
-│   └── README.md
-│
-├── Hospital Dataset/
-│   ├── messy_hospital.csv
-│   ├── cleaning_queries.sql
-│   └── README.md
-│
-├── Hotel Dataset/
-│   ├── messy_hotel.csv
-│   ├── cleaning_queries.sql
-│   └── README.md
-│
-└── JOIN Practice/
-├── students.csv
-├── courses.csv
-├── enrollments.csv
-├── employees.csv
-├── salaries.csv
-├── join_queries.sql
-└── README.md
+
+| Folder | Files |
+|---|---|
+| **Employees Dataset** | `messy_employees.csv` `cleaning_queries.sql` `README.md` |
+| **Hospital Dataset** | `messy_hospital.csv` `cleaning_queries.sql` `README.md` |
+| **Hotel Dataset** | `messy_hotel.csv` `cleaning_queries.sql` `README.md` |
+| **JOIN Practice** | `students.csv` `courses.csv` `enrollments.csv` `employees.csv` `salaries.csv` `join_queries.sql` `README.md` |
 
 ---
 
