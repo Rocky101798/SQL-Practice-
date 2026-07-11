@@ -32,16 +32,14 @@ SQL-Practice/
 │   ├── cleaning_queries.sql
 │   └── README.md
 │
-├── JOIN Practice/
-│   ├── students.csv
-│   ├── courses.csv
-│   ├── enrollments.csv
-│   ├── employees.csv
-│   ├── salaries.csv
-│   ├── join_queries.sql
-│   └── README.md
-│
-└── README.md
+└── JOIN Practice/
+    ├── students.csv
+    ├── courses.csv
+    ├── enrollments.csv
+    ├── employees.csv
+    ├── salaries.csv
+    ├── join_queries.sql
+    └── README.md
 ---
 
 ## 🧹 Cleaning Functions Practiced
