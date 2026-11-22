@@ -1,5 +1,11 @@
 # 📊 SQL Practice — Data Cleaning & Analysis
 
+<p>
+  <img src="https://img.shields.io/badge/Databricks-SQL-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-SQL-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cleaning%20%C2%B7%20CTEs%20%C2%B7%20Window%20Functions%20%C2%B7%20JOINs-8B5CF6?style=flat-square" />
+</p>
+
 A collection of SQL practice projects focused on real-world data 
 cleaning, transformation, and analysis using Databricks and 
 Google BigQuery.
@@ -16,12 +22,12 @@ Google BigQuery.
 
 ## 📁 Repository Structure
 
-| Folder | Files |
-|---|---|
-| **Employees Dataset** | `messy_employees.csv` `cleaning_queries.sql` `README.md` |
-| **Hospital Dataset** | `messy_hospital.csv` `cleaning_queries.sql` `README.md` |
-| **Hotel Dataset** | `messy_hotel.csv` `cleaning_queries.sql` `README.md` |
-| **JOIN Practice** | `students.csv` `courses.csv` `enrollments.csv` `employees.csv` `salaries.csv` `join_queries.sql` `README.md` |
+| Folder | Data | SQL |
+|---|---|---|
+| [`employees/`](./employees/) | `messy_employees.csv` | `employees_cleaning.sql` |
+| [`hospital/`](./hospital/) | `messy_hospital.csv` | `hospital_cleaning.sql` |
+| [`hotel/`](./hotel/) | `messy_hotel.csv` | `hotel_cleaning.sql` |
+| [`joins/`](./joins/) | `students.csv` `courses.csv` `enrollments.csv` | `join_queries.sql` |
 
 ---
 
@@ -212,8 +218,8 @@ each other correctly across duplicate rows.
 
 ## 👤 Author
 
-**Siphamandla M.**  
-Junior Data Analyst  
+**Godfrey Siphamandla Moyo**  
+Data Analyst · Fraud Risk  
 Practicing SQL for data cleaning, transformation
 and analysis across multiple platforms.
 
