@@ -218,7 +218,7 @@ each other correctly across duplicate rows.
 
 ## 👤 Author
 
-**Godfrey Siphamandla Moyo**  
+**Siphamandla Moyo**  
 Data Analyst · Fraud Risk  
 Practicing SQL for data cleaning, transformation
 and analysis across multiple platforms.
